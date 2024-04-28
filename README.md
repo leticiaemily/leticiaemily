@@ -22,6 +22,6 @@
 ## Contact Me 📬
 
 > [!NOTE]
-> ✉️ Email: ryan.ggoncalves09@gmail.com
+> ✉️ Email: leticia.godoi70@gmail.com
 
 Let's build something amazing together! 👨‍💻✨
