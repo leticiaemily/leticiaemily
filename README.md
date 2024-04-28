@@ -11,9 +11,9 @@
 # GitHub Stats 📊
 
 <div style="display: flex">
-  <img height="240em" align="left" src="https://github-readme-stats.vercel.app/api?username=leticiaemily&show_icons=true&theme=material-palenight&show=reviews,discussions_started,discussions_answered,prs_merge,prs_merged_percentage&" />
+  <img height="140em" align="left" src="https://github-readme-stats.vercel.app/api?username=leticiaemily&show_icons=true&theme=material-palenight" />
    <a href="https://github.com/anuraghazra/convoychat">
-  <img height=240em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leticiaemily&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=material-palenight" />
+  <img height=140em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leticiaemily&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=material-palenight" />
   </a>
 </div>
 
