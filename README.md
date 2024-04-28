@@ -7,7 +7,8 @@
 # Featured Projects 🌟
 
 [![spotify-imersao](https://github-readme-stats.vercel.app/api/pin/?username=leticiaemily&repo=spotify-imersao&theme=material-palenight)](https://github.com/leticiaemily/spotify-imersao)
-[![target_exercicios](https://github-readme-stats.vercel.app/api/pin/?username=leticiaemily&repo=target_exercicios&theme=material-palenight)]((https://github.com/leticiaemily/target_exercicios))
+[![target_exercicios](https://github-readme-stats.vercel.app/api/pin/?username=leticiaemily&repo=target_exercicios&theme=material-palenight)](https://github.com/leticiaemily/target_exercicios)
+
 # GitHub Stats 📊
 
 <div style="display: flex">
